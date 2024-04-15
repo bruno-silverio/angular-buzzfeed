@@ -1,4 +1,8 @@
-# AngularBuzzfeed
+# Buzzfeed
+
+<p>
+  <img src="https://github.com/bruno-silverio/angular-buzzfeed/assets/27282770/e526cb51-8459-4dc4-948f-18ba91797123" align="center"/>
+</p>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0.
 
@@ -22,6 +26,11 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts" />
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=angular" />
+  </a>
+</p>
